@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Moneytor</string>
+    <string name="title_activity_display_message">My Message</string>
+</resources>
